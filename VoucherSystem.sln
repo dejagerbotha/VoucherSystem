@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoucherTokenGenerator", "VoucherTokenGenerator\VoucherTokenGenerator.csproj", "{AD43AEE4-0937-4CDF-9492-449E2CA5E7CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoucherAPI", "VoucherAPI\VoucherAPI.csproj", "{76119D7F-783D-4370-A5B3-418E7B3347AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD43AEE4-0937-4CDF-9492-449E2CA5E7CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD43AEE4-0937-4CDF-9492-449E2CA5E7CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD43AEE4-0937-4CDF-9492-449E2CA5E7CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD43AEE4-0937-4CDF-9492-449E2CA5E7CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76119D7F-783D-4370-A5B3-418E7B3347AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76119D7F-783D-4370-A5B3-418E7B3347AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76119D7F-783D-4370-A5B3-418E7B3347AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76119D7F-783D-4370-A5B3-418E7B3347AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCF9A335-1168-4016-82A4-B99683D6B7DC}
+	EndGlobalSection
+EndGlobal
